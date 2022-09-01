@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fad-2281%2Fpython_test.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fad-2281%2Fpython_test?ref=badge_shield)
+
 This is Python version 3.12.0 alpha 0
 =====================================
 
@@ -263,3 +265,7 @@ so it may be used in proprietary projects.  There are interfaces to some GNU
 code but these are entirely optional.
 
 All trademarks referenced herein are property of their respective holders.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fad-2281%2Fpython_test.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fad-2281%2Fpython_test?ref=badge_large)
