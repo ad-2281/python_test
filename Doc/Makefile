@@ -1,5 +1,5 @@
 #
-# Makefile for Python documentation
+# Makefile for Python documentation generation
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #
 
